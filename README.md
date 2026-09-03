@@ -12,7 +12,9 @@
 - 💬 Ask me about React, React Native, Node.js, PHP
 - ⚡ Fun fact: I code more than I sleep
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hanmeini&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanmeini&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="trophy" />
+</p>
 
 ---
 
@@ -50,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanmeini&theme=radical&background=0d1117&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hanmeini&theme=radical&background=0d1117&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
