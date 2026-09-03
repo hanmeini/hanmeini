@@ -12,8 +12,10 @@
 - 💬 Ask me about React, React Native, Node.js, PHP
 - ⚡ Fun fact: I code more than I sleep
 
+## 💡 GitHub Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanmeini&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanmeini&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="activity graph" />
 </p>
 
 ---
